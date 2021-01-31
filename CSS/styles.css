@@ -1,0 +1,165 @@
+a{
+  color: #ffdd93;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  transition: .2s ease;
+  color:  #39311d;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+color: #39311d;
+}
+
+.copyright {
+  color: #C4B6B6;
+  font-size: .75rem;
+  padding: 20px;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  font-size: 5.625rem;
+  color:  #7e7474;
+  line-height: 2;
+}
+
+h1:hover{
+  transition: .2s ease;
+  color:#C4B6B6
+}
+
+h2 {
+  font-size: 2.5rem;
+  color:#7e7474;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h2:hover{
+  transition: .2s ease;
+  color:#C4B6B6
+}
+
+h3 {
+  color:#C4B6B6;
+}
+
+h3:hover{
+  transition: .2s ease;
+  color:#7e7474
+}
+
+hr {
+  border: 6px dotted  #C4B6B6;
+border-top: 0px;
+width:3%;
+margin: 100px auto;
+
+}
+p {
+  line-height: 2;
+}
+div {
+  background-color: none;
+}
+
+.topcontainer {
+  background-color: #ffdd93;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middlecontainer {
+margin: 100px 0px 100px 0px;
+}
+
+.bottomcontainer {
+  background-color: #7e7474;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+
+}
+
+.skills{
+  width: 75%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+font-size: .8em;
+line-height: 1;
+}
+
+.skill-img {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img2 {
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.BUTTON_JJU {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color:  #ffdd93;
+   font-family: Helvetica;
+   font-size: 24px;
+   font-weight: 100;
+   padding: 17px;
+   background-color: #7e7474;
+   border: solid #7e7474 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_JJU:hover {
+  transition: .2s ease;
+   border: solid #C4B6B6 1px;
+   background: #C4B6B6;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
