@@ -13,7 +13,7 @@ a:hover {
 body {
   margin: 0;
   text-align: center;
-  font-family: "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif color: #aaaaaa;
+  font-family: "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif color: #8280aa;
 }
 
 .copyright {
@@ -40,6 +40,7 @@ h2 {
   color: #f6f6f6;
   font-weight: normal;
   padding-bottom: 10px;
+  font-family: "Helvetica Neue";
 }
 
 h2:hover {
@@ -49,6 +50,7 @@ h2:hover {
 
 h3 {
   color: #f6f6f6;
+  font-family: "Helvetica Neue";
 }
 
 h3:hover {
@@ -66,6 +68,7 @@ hr {
 p {
   line-height: 2;
   color:#8280aa;
+  font-family: "Helvetica Neue";
 }
 
 div {
@@ -91,47 +94,57 @@ div {
   text-decoration: underline;
 }
 
-.bottom-cloud {
+.bottom-sparkle {
   height: 128px;
   width: 128px;
   position: absolute;
   left: 285px;
   clear: left;
+  margin-bottom: 50px;
+}
+
+.pencil {
+  height: 250px;
+  width: 250px;
+  position: block;
+  margin: 150px auto auto auto;
 }
 
 .plant {
   height: 170px;
   width: 170px;
   display: block;
-  margin: auto;
+  margin: 50px auto auto auto;
 }
 
 .skills {
-  width: 75%;
+  width: 60%;
   margin: auto;
+
 }
 
 .skill-row {
-  width: 50%;
+  width: 75%;
   margin: 100px auto 100px auto;
   text-align: left;
   font-size: .8em;
   line-height: 1;
+
 }
 
 .skill-img {
-  width: 40%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
 
 .skill-img2 {
-  width: 40%;
+  width: 22%;
   float: right;
   margin-left: 30px;
 }
 
-.top-cloud {
+.top-sparkle {
   position: absolute;
   height: 128px;
   width: 128px;
@@ -167,11 +180,17 @@ div {
 }
 
 .intro {
-  width: 30%;
+  width: 60%;
   margin: auto;
+
 }
 
 .contact-me {
-  width: 40%;
+  width: 60%;
   margin: 40px auto 60px;
+}
+
+.linksentence {
+  font-family: "Helvetica Neue";  
+  color:#8280aa;
 }
