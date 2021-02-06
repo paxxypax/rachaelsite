@@ -1,6 +1,6 @@
 a {
   color: #f6f6f6;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
@@ -13,7 +13,8 @@ a:hover {
 body {
   margin: 0;
   text-align: center;
-  font-family: "Helvetica Neue", Helvetica, Helvetica, Arial, sans-serif color: #8280aa;
+  font-family: 'Lato', sans-serif;
+  color: #8280aa;
 }
 
 .copyright {
@@ -27,7 +28,7 @@ h1 {
   font-size: 5.625rem;
   color: #f6f6f6;
   line-height: 2;
-  font-family: "Helvetica Neue";
+  font-family: 'Lato', sans-serif;
 }
 
 h1:hover {
@@ -40,7 +41,7 @@ h2 {
   color: #f6f6f6;
   font-weight: normal;
   padding-bottom: 10px;
-  font-family: "Helvetica Neue";
+  font-family: 'Lato', sans-serif;
 }
 
 h2:hover {
@@ -50,7 +51,7 @@ h2:hover {
 
 h3 {
   color: #f6f6f6;
-  font-family: "Helvetica Neue";
+  font-family: 'Lato', sans-serif;
 }
 
 h3:hover {
@@ -68,7 +69,7 @@ hr {
 p {
   line-height: 2;
   color:#8280aa;
-  font-family: "Helvetica Neue";
+  font-family: 'Lato', sans-serif;
 }
 
 div {
@@ -191,6 +192,6 @@ div {
 }
 
 .linksentence {
-  font-family: "Helvetica Neue";  
+  font-family: 'Lato', sans-serif;  
   color:#8280aa;
 }
